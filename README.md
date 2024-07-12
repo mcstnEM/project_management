@@ -1,23 +1,43 @@
 # Support de Cours sur les Méthodes Agiles et la Gestion de Projet
 
 ## Table des matières
-1. [Introduction à Agile](#introduction-à-agile)
-2. [Le Manifest Agile](#le-manifest-agile)
-3. [SCRUM](#scrum)
-4. [Kanban](#kanban)
-5. [Extreme Programming (XP)](#extreme-programming-xp)
-6. [User Stories](#user-stories)
-7. [Personas](#personas)
-8. [Veille Technologique](#veille-technologique)
-9. [Diagrammes UML](#diagrammes-uml)
-10. [Méthode Merise](#méthode-merise)
-11. [Résumé sur Git, DevOps et CI/CD](#résumé-sur-git-devops-et-cicd)
+- [Support de Cours sur les Méthodes Agiles et la Gestion de Projet](#support-de-cours-sur-les-méthodes-agiles-et-la-gestion-de-projet)
+  - [Table des matières](#table-des-matières)
+  - [Introduction à Agile](#introduction-à-agile)
+  - [Le Manifest Agile](#le-manifest-agile)
+    - [Les 4 valeurs fondamentales](#les-4-valeurs-fondamentales)
+    - [Les 12 principes](#les-12-principes)
+  - [SCRUM](#scrum)
+    - [Les rôles](#les-rôles)
+    - [Les artefacts](#les-artefacts)
+    - [Les événements](#les-événements)
+  - [Kanban](#kanban)
+    - [Principes](#principes)
+  - [Extreme Programming (XP)](#extreme-programming-xp)
+    - [Pratiques clés](#pratiques-clés)
+  - [User Stories](#user-stories)
+    - [Structure](#structure)
+    - [Critères d'acceptation](#critères-dacceptation)
+  - [Personas](#personas)
+    - [Création de Personas](#création-de-personas)
+  - [Veille Technologique](#veille-technologique)
+    - [Méthodes](#méthodes)
+  - [Diagrammes UML](#diagrammes-uml)
+    - [Types de diagrammes](#types-de-diagrammes)
+  - [Méthode Merise](#méthode-merise)
+    - [Principes](#principes-1)
+  - [Résumé sur Git, DevOps et CI/CD](#résumé-sur-git-devops-et-cicd)
+    - [Git](#git)
+    - [DevOps](#devops)
+    - [CI/CD](#cicd)
+  - [Ressources \& liens](#ressources--liens)
 
 ## Introduction à Agile
 Les méthodes agiles sont des approches itératives et incrémentales pour le développement de logiciels. Elles se concentrent sur la collaboration, la flexibilité et la livraison rapide de produits fonctionnels.
 
 <details>
   <summary>En savoir plus</summary>
+
   Les principales caractéristiques des méthodes agiles incluent :
   - Des cycles de développement courts appelés itérations ou sprints.
   - Une forte collaboration entre les équipes de développement et les parties prenantes.
